@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!-- 配置Bean -->
+    <bean id="helloWorld" class="com.spring.bean.HelloWorld">
+        <property name="name" value="SunYang's Spring"></property>
+    </bean>
+
+    <bean id="juiceProduce" class="com.spring.bean.JuiceProduce">
+        <property name="water" value="大杯" />
+        <property name="fruit" value="橙汁" />
+        <property name="sugar" value="三分糖"/>
+    </bean>
+
+</beans>
