@@ -2,6 +2,5 @@
 
 ## 入门基础篇
 
-[从HelloWorld开始
-]()
+[从HelloWorld开始]()
 
