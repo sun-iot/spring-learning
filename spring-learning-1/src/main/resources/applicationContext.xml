@@ -13,4 +13,7 @@
         <property name="sugar" value="三分糖"/>
     </bean>
 
+    <bean id="userTome" class="com.spring.bean.User">
+        <property name="name" value="Tom"/>
+    </bean>
 </beans>
