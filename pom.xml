@@ -14,7 +14,7 @@
 
     <properties>
         <spring.version>4.0.9.RELEASE</spring.version>
-        <mysql.version>8.0.18</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
     </properties>
 
     <dependencies>
